@@ -64,3 +64,4 @@ pip install pandas jieba snownlp matplotlib wordcloud
 
 ```bash
 python main.py
+```
