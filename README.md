@@ -36,9 +36,14 @@ pip install pandas jieba snownlp matplotlib wordcloud
 
 ## 使用说明
 
-### 1. 准备数据
+### 1. 前期准备
 
-请准备符合以下格式的 CSV 文件：
+可以参考这个项目：https://github.com/BlueMatthew/WechatExporter
+按照这一项目的说明，导出聊天记录为txt文档；
+
+### 1. 处理数据
+
+将txt文档转换为符合以下格式的 CSV 文件：
 
 - **必需的列**：
   - `DateTime`：表示消息发送的时间。
@@ -53,6 +58,8 @@ pip install pandas jieba snownlp matplotlib wordcloud
 | 2023-01-01 08:05:00 | Bob     | [表情]       |
 | 2023-01-01 08:10:00 | Alice   | 今天的天气真好！ |
 | 2023-01-01 08:15:00 | Bob     | 是啊，阳光明媚。 |
+
+可以使用convert_txt_to_csv.py 这一文件进行转换；
 
 ### 2. 运行程序
 
