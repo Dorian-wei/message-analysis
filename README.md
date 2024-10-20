@@ -60,6 +60,9 @@ pip install pandas jieba snownlp matplotlib wordcloud
 | 2023-01-01 08:15:00 | Bob     | 是啊，阳光明媚。 |
 
 可以使用convert_txt_to_csv.py 这一文件进行转换；
+```bash
+python convert_txt_to_csv.py
+```
 
 ### 3. 运行程序
 
@@ -68,5 +71,5 @@ pip install pandas jieba snownlp matplotlib wordcloud
 运行以下命令：
 
 ```bash
-python main.py
+python message_ana.py
 ```
