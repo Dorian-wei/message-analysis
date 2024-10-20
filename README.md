@@ -73,3 +73,12 @@ python convert_txt_to_csv.py
 ```bash
 python message_ana.py
 ```
+
+## 案例展示
+![image](https://github.com/user-attachments/assets/77e97cf4-1ad8-485b-b0d2-40a4e658fc63)
+![image](https://github.com/user-attachments/assets/f2e0fa60-3c86-42df-90fe-28e7d1a0fbdf)
+![image](https://github.com/user-attachments/assets/b5c34fd0-f024-4d3b-b3df-276d1158e46d)
+<img width="530" alt="image" src="https://github.com/user-attachments/assets/5f845c19-c6c8-4d16-afbf-02d7c64bb5e2">
+<img width="529" alt="image" src="https://github.com/user-attachments/assets/ba68e3af-ef98-4141-b8f0-4ca130cdf043">
+
+
