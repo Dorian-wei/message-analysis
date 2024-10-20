@@ -41,7 +41,7 @@ pip install pandas jieba snownlp matplotlib wordcloud
 可以参考这个项目：https://github.com/BlueMatthew/WechatExporter
 按照这一项目的说明，导出聊天记录为txt文档；
 
-### 1. 处理数据
+### 2. 处理数据
 
 将txt文档转换为符合以下格式的 CSV 文件：
 
@@ -61,11 +61,9 @@ pip install pandas jieba snownlp matplotlib wordcloud
 
 可以使用convert_txt_to_csv.py 这一文件进行转换；
 
-### 2. 运行程序
+### 3. 运行程序
 
 运行主程序，通过输入 CSV 文件的路径开始分析。程序支持单个文件和多个文件的输入。
-
-#### 单个文件分析
 
 运行以下命令：
 
